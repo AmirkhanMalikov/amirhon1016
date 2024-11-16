@@ -1,0 +1,12 @@
+@font-face {
+    font-family:'SM-R';
+    src: url(../fonts/SpaceMono-Regular.ttf);
+}
+@font-face {
+    font-family:'WS-R';
+    src: url(../fonts/WorkSans-Regular.ttf);
+}
+@font-face {
+    font-family:'WS-M';
+    src: url(../fonts/WorkSans-Medium.ttf);
+}
